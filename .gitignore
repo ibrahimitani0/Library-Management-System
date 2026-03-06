@@ -1,0 +1,14 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Spring Boot
+application.properties
+*.iml
+
+# Node / Angular
+node_modules/
+dist/
